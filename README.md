@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning rust/bigdata/AI
+- 📫 Blog:  [infmax.top](infmax.top)
+
 <!--
 **lzjqsdd/lzjqsdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lzjqsdd/repos?time_range=three_months&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
+
