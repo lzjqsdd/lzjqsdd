@@ -1,22 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning rust/bigdata/AI
+- 🌱 I’m currently learning `rust` `bigdata` `AI`
+- 💻 I'm working on curvineio/curvine opensource project
 - 📫 Blog:  [infmax.top](infmax.top)
-
-<!--
-**lzjqsdd/lzjqsdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lzjqsdd/repos?time_range=three_months&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
-
+- 🔭 My indie website: [itrending.top](https://itrending.top)  find awesome and fun project
+- 🔭 [itrending terminal](https://itrending.top/terminal) is a collections site of terminal/tui application for developers
