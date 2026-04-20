@@ -5,3 +5,4 @@
 - 📫 Blog:  [infmax.top](https://www.infmax.top)
 - 🔭 My indie website: [itrending.top](https://itrending.top)  find awesome and fun project
 - 🔭 [itrending terminal](https://itrending.top/terminal) is a collections site of terminal/tui application for developers
+- 🧩 [vscode-wechat-pub](https://github.com/lzjqsdd/vscode-wechat-pub) is a vscode plugin for wechat public content publisher
